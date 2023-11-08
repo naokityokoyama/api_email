@@ -1,0 +1,8 @@
+../env
+*.pyc
+*.json
+*.csv
+*.txt
+/app_api/output
+/src/backup
+/src/logs
